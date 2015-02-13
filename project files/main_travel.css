@@ -1,0 +1,193 @@
+html,body
+{
+    color: #FFF;
+}
+#main_content2
+{
+    font-size: 50px;
+    color: #FFF;
+}
+#tagline
+{
+    color: #FFF;
+    font-size: 30px;
+    padding-top: 10px;
+}
+#search
+{
+    width: 500px;
+    max-width: 90%;
+    border: thin;
+    background: rgba(255,255,255,.4);
+    font-size: 20px;
+    padding: 1em;
+    border-radius: 5px;
+    text-align: center;
+}
+
+#mail_icon
+{
+    font-size: 40px;
+    color: #FFF;
+    opacity: .8;
+    display: none;
+}
+#submit
+{
+    border: thin;
+    border: 2px solid #FFF;
+    border-color: #FFF;
+    background: transparent;
+    font-size: 18px;
+    padding: .5em;
+    border-radius: 10px;
+    text-align: center;
+    margin-top: 5px;
+    cursor: pointer;
+    color: #FFF;
+    
+  -webkit-transition: all 0.3s ease-out;  /* Android 2.1+, Chrome 1-25, iOS 3.2-6.1, Safari 3.2-6  */
+          transition: all 0.3s ease-out;  /* Chrome 26, Firefox 16+, iOS 7+, IE 10+, Opera, Safari 6.1+  */
+
+}
+
+#submit:hover
+{
+    color: #0C2C2F;
+    background-color: #FFF;
+}
+#readmore
+{
+    position: absolute;
+    bottom: 0px;
+    z-index: 10001;
+    color: #FFF;
+    left: 50%;
+    margin-left: -2em;
+    opacity: .8;
+    
+}
+#submit1
+{
+    border: thin;
+    border: 2px solid #FFF;
+    border-color: #FFF;
+    background: transparent;
+    font-size: 14px;
+    padding: .5em;
+    border-radius: 10px;
+    text-align: center;
+    margin: 5px;
+    cursor: pointer;
+    color: #FFF;
+    
+  -webkit-transition: all 0.3s ease-out;  /* Android 2.1+, Chrome 1-25, iOS 3.2-6.1, Safari 3.2-6  */
+          transition: all 0.3s ease-out;  /* Chrome 26, Firefox 16+, iOS 7+, IE 10+, Opera, Safari 6.1+  */
+
+}
+
+#submit1:hover
+{
+    color: #0C2C2F;
+    background-color: #FFF;
+}
+#result_sec
+{
+    width: 900px;
+    margin-top: 20px;
+    padding: 10px;
+    border-radius: 10px;
+    max-width: 95%;
+    text-align: center;
+    font-size: 24px;
+}
+#login_main
+{
+
+    width: 600px;
+    max-width: 95%;
+    margin: 0 auto;
+    margin-top: 5%;
+    background: rgba(255,255,255,.7);
+    color: #0C2C2F;
+    padding: 2em;
+    border-radius: 10px;
+}
+.in_login
+{
+    border: thin;
+    background: #FFF;;
+    color: #0C2C2F;
+    padding: .5em;
+    border-radius: 5px;
+    font-size:15px;
+}
+#howto_main
+{
+    width: 900px;
+    max-width: 90%;
+    padding-left: 10%;
+    background: rgba(0,0,0,.4);
+    border-radius: 10px;
+}
+a
+{
+    color:#39E9EF;
+}
+#screenshot
+{
+    width: 700px;
+    max-width: 90%;
+    border: 2px solid #FFF;
+}
+#container1
+{
+    position: relative;
+    z-index: 10;
+    height: 100%;
+    padding-top: 20px;
+    width: 100%;
+}
+#yourdetails
+{
+    margin-top: 10px;
+    width: 800px;
+    max-width: 95%;
+    background: #FFF;
+    color: #000;
+    font-size: 17px;
+    border-radius: 10px;
+}
+#leaderboard
+{
+    width: 1000px;
+    max-width: 100%;
+}
+#table td
+{
+    padding: 4px;
+}
+
+#navstars
+{
+    position: absolute;
+    top: 1px;
+    right: 6px;
+    color: #FFF;
+    z-index: 19361958173578153718;
+}
+#navstars span
+{
+    padding-right: 3px;
+}
+@media (max-width:600px)
+{
+    #main_content2
+    {
+        font-size: 30px;
+    }
+    #tagline
+    {
+        font-size: 20px;
+    }
+}
