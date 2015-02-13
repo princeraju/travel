@@ -1,7 +1,7 @@
 <h2>This Travel to Track (http://hashtagofficial.in/travel/) code was created for using in 
 a MozStumbler event conducted as part of 'Hashtag', 
 the silver jubilee celebrations
-of the Department of Computer Science and Engineering. (http://hashtagofficial.in)</h2>
+of the Department of Computer Science and Engineering of Mar Athanasius College of Engineering. (http://hashtagofficial.in)</h2>
 
 <h3>Before using the code. Please read the following instructions. It may help you</h3>
 
